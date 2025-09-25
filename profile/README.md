@@ -26,7 +26,7 @@ Canvas · Storyboard · FastAPI · ComfyUI · MariaDB
 
 | | |
 |---|---|
-| <a href="https://github.com/omni0123"><img src="https://github.com/omni0123.png" width="96" height="96" alt="omni0123 avatar" /></a> | **최동근** — Planning / VFX<br>[@omni0123](https://github.com/omni0123) |
-| <a href="https://github.com/kobryant8"><img src="https://github.com/kobryant8.png" width="96" height="96" alt="kobryant8 avatar" /></a> | **주형준** — Planning / Story / AI Video<br>[@kobryant8](https://github.com/kobryant8) |
-| <a href="https://github.com/CHOIBEAR"><img src="https://github.com/CHOIBEAR.png" width="96" height="96" alt="CHOIBEAR avatar" /></a> | **박경민** — Owner / PM · AI Video Editing<br>[@CHOIBEAR](https://github.com/CHOIBEAR) |
+| <a href="https://github.com/omni0123"><img src="https://github.com/omni0123.png" width="96" height="96" alt="omni0123 avatar" /></a> | **최동근**<br>[@omni0123](https://github.com/omni0123) |
+| <a href="https://github.com/kobryant8"><img src="https://github.com/kobryant8.png" width="96" height="96" alt="kobryant8 avatar" /></a> | **주형준** <br>[@kobryant8](https://github.com/kobryant8) |
+| <a href="https://github.com/CHOIBEAR"><img src="https://github.com/CHOIBEAR.png" width="96" height="96" alt="CHOIBEAR avatar" /></a> | **박경민**<br>[@CHOIBEAR](https://github.com/CHOIBEAR) |
 <!-- ─────────────────────────────────────────────────────────────────────────────── -->
