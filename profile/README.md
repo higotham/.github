@@ -29,7 +29,7 @@ Canvas · Storyboard · FastAPI · ComfyUI · MariaDB
 
 | | |
 |---|---|
-| <a href="https://github.com/omni0123"><img src="https://github.com/omni0123.png" width="96" height="96" alt="omni0123 avatar" /></a> | <br>**박경민** — 팀원[@omni0123]               (https://github.com/omni0123) |
+| <a href="https://github.com/omni0123"><img src="https://github.com/omni0123.png" width="96" height="96" alt="omni0123 avatar" /></a> | <br>**박경민** — 팀원[@omni0123](https://github.com/omni0123) |
 | <a href="https://github.com/kobryant8"><img src="https://github.com/kobryant8.png" width="96" height="96" alt="kobryant8 avatar" /></a> | **주형준** — 팀원<br>[@kobryant8](https://github.com/kobryant8) |
 | <a href="https://github.com/CHOIBEAR"><img src="https://github.com/CHOIBEAR.png" width="96" height="96" alt="CHOIBEAR avatar" /></a> | **최동근** — **팀장**<br>[@CHOIBEAR](https://github.com/CHOIBEAR) |
 <!-- ─────────────────────────────────────────────────────────────────────────────── -->
@@ -38,4 +38,4 @@ Canvas · Storyboard · FastAPI · ComfyUI · MariaDB
 ### 🛠 Gateway / Auth / DB
 | | |
 |---|---|
-|<img src="https://github.com/imhonggeun.png" width="96" height="96" alt="imhonggeun avatar"/>|- **임홍근**: [@imhonggeun] <a href="https://github.com/imhonggeun"></a> (https://github.com/imhonggeun) (- **Org**: [Solodkfl](https://github.com/Solodkfl))|
+|<img src="https://github.com/imhonggeun.png" width="96" height="96" alt="imhonggeun avatar"/>|- **임홍근**: [@imhonggeun](https://github.com/imhonggeun) <a href="https://github.com/imhonggeun"></a> (- **Org**: [Solodkfl](https://github.com/Solodkfl))|
