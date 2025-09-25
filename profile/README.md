@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="./gotham.webp" alt="TEAM GOTHAM banner" width="980" />
+</p>
 # TEAM GOTHAM · Project
 Canvas · Storyboard · FastAPI · ComfyUI · MariaDB
 
