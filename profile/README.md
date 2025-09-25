@@ -38,5 +38,4 @@ Canvas · Storyboard · FastAPI · ComfyUI · MariaDB
 ### 🛠 Gateway / Auth / DB
 | | |
 |---|---|
-|<img src="https://github.com/imhonggeun.png" width="96" height="96" alt="imhonggeun avatar"/>|- **임홍근**: [@imhonggeun] <a href="https://github.com/imhonggeun"></a> (https://github.com/imhonggeun)
- (- **Org**: [Solodkfl](https://github.com/Solodkfl))|
+|<img src="https://github.com/imhonggeun.png" width="96" height="96" alt="imhonggeun avatar"/>|- **임홍근**: [@imhonggeun] <a href="https://github.com/imhonggeun"></a> (https://github.com/imhonggeun) (- **Org**: [Solodkfl](https://github.com/Solodkfl))|
