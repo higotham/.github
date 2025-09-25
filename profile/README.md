@@ -1,6 +1,6 @@
 <div align="center">
 
-# TEAM GOTHAM · AI Creative Lab
+# TEAM GOTHAM · Project
 Canvas · Storyboard · FastAPI · ComfyUI · MariaDB
 
 [![Frontend](https://img.shields.io/badge/frontend-repo-ff7a00?logo=github&logoColor=white)](https://github.com/higotham/frontend)
