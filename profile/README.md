@@ -36,5 +36,5 @@ Canvas · Storyboard · FastAPI · ComfyUI · MariaDB
 
 
 ### 🛠 Gateway / Auth / DB
-- **Platform & Org**: [Solodkfl](https://github.com/Solodkfl)
-- **Maintainer**: [@imhonggeun] <a href="https://github.com/imhonggeun"><img src="https://github.com/imhonggeun.png" width="96" height="96" alt="imhonggeun avatar"/></a> (https://github.com/imhonggeun)
+|- **Platform & Org**: [Solodkfl](https://github.com/Solodkfl)|
+|- **Maintainer**: [@imhonggeun] <a href="https://github.com/imhonggeun"><img src="https://github.com/imhonggeun.png" width="96" height="96" alt="imhonggeun avatar"/></a> (https://github.com/imhonggeun)|
