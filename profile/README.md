@@ -18,15 +18,17 @@ Canvas · Storyboard · FastAPI · ComfyUI · MariaDB
 ## 🧩 Repos
 | Part | Link | Badges |
 |---|---|---|
-| Frontend | https://github.com/higotham/frontend | ![last commit](https://img.shields.io/github/last-commit/higotham/frontend) ![issues](https://img.shields.io/github/issues/higotham/frontend) |
-| Backend  | https://github.com/higotham/backend  | ![last commit](https://img.shields.io/github/last-commit/higotham/backend)  ![issues](https://img.shields.io/github/issues/higotham/backend)  |
+| Frontend | https://github.com/higotham/frontend | ![last commit](https://img.shields.io/github/last-commit/higotham/frontend)|
+| Backend  | https://github.com/higotham/backend  | ![last commit](https://img.shields.io/github/last-commit/higotham/backend)|
 
+<!-- ─────────────────────────────── TEAM (ordered) ─────────────────────────────── -->
 <!-- ─────────────────────────────── TEAM (ordered) ─────────────────────────────── -->
 ### 👥 Team
 
 | | |
 |---|---|
-| <a href="https://github.com/omni0123"><img src="https://github.com/omni0123.png" width="96" height="96" alt="omni0123 avatar" /></a> | **박경민**<br>[@omni0123](https://github.com/omni0123) |
-| <a href="https://github.com/kobryant8"><img src="https://github.com/kobryant8.png" width="96" height="96" alt="kobryant8 avatar" /></a> | **주형준** <br>[@kobryant8](https://github.com/kobryant8) |
-| <a href="https://github.com/CHOIBEAR"><img src="https://github.com/CHOIBEAR.png" width="96" height="96" alt="CHOIBEAR avatar" /></a> | **최동근**<br>[@CHOIBEAR](https://github.com/CHOIBEAR) |
+| <a href="https://github.com/omni0123"><img src="https://github.com/omni0123.png" width="96" height="96" alt="omni0123 avatar" /></a> | **최동근** — **팀장**<br>[@omni0123](https://github.com/omni0123) |
+| <a href="https://github.com/kobryant8"><img src="https://github.com/kobryant8.png" width="96" height="96" alt="kobryant8 avatar" /></a> | **주형준** — 팀원<br>[@kobryant8](https://github.com/kobryant8) |
+| <a href="https://github.com/CHOIBEAR"><img src="https://github.com/CHOIBEAR.png" width="96" height="96" alt="CHOIBEAR avatar" /></a> | **박경민** — 팀원<br>[@CHOIBEAR](https://github.com/CHOIBEAR) |
 <!-- ─────────────────────────────────────────────────────────────────────────────── -->
+
