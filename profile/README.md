@@ -7,7 +7,7 @@ Canvas · Storyboard · FastAPI · ComfyUI · MariaDB
 
 [![Frontend](https://img.shields.io/badge/frontend-repo-ff7a00?logo=github&logoColor=white)](https://github.com/higotham/frontend)
 [![Backend](https://img.shields.io/badge/backend-repo-ff7a00?logo=github&logoColor=white)](https://github.com/higotham/backend)
-[![Progress](https://img.shields.io/badge/progress-90%25-orange)](#-progress)
+[![Progress](https://img.shields.io/badge/progress-100%25-orange)](#-progress)
 
 </div>
 
